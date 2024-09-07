@@ -1,0 +1,105 @@
+User_ID,Cust_name,Product_ID,Gender,Age Group,Age,Marital_Status,State,Zone,Occupation,Product_Category,Orders,Amount
+U001,Ahmed Ali,P001,Male,25-34,30,Single,Punjab,North,Engineer,Electronics,2,15000
+U002,Fatima Khan,P002,Female,35-44,40,Married,Sindh,South,Teacher,Apparel,1,5000
+U003,Ali Raza,P003,Male,18-24,22,Single,Khyber Pakhtunkhwa,Central,Student,Home Goods,3,
+U004,Aisha Ahmed,P004,Female,45-54,50,Married,Balochistan,West,Doctor,Healthcare,1,20000
+U005,Bilal Shah,P005,Male,35-44,37,Single,Punjab,North,Businessman,Electronics,5,25000
+U006,Zara Iqbal,P006,Female,25-34,29,Married,Sindh,South,Nurse,Apparel,2,10000
+U007,Usman Tariq,P007,Male,55-64,60,Married,Khyber Pakhtunkhwa,Central,Retired,Home Goods,1,
+U008,Sana Javed,P008,Female,18-24,21,Single,Balochistan,West,Student,Electronics,4,12000
+U009,Omar Khan,P009,Male,25-34,32,Married,Punjab,North,Lawyer,Apparel,3,15000
+U010,Hina Malik,P010,Female,35-44,38,Single,Sindh,South,Accountant,Healthcare,2,8000
+U011,Ayesha Iqbal,P011,Female,25-34,30,Married,Punjab,North,Engineer,Technology,4,12000
+U012,Ali Raza,P012,Male,45-54,47,Divorced,Sindh,South,Manager,Finance,15,20000
+U013,Sara Ahmed,P013,Female,18-24,22,Single,Balochistan,West,Consultant,Education,2,9000
+U014,Imran Shah,P014,Male,35-44,40,Married,KPK,North,Doctor,Healthcare,10,25000
+U015,Zainab Khan,P015,Female,25-34,28,Single,Punjab,East,Teacher,Education,5,11000
+U016,Ahmed Ali,P016,Male,25-34,29,Single,Punjab,North,Software Engineer,Technology,6,14000
+U017,Farah Hassan,P017,Female,35-44,39,Married,Sindh,South,Architect,Construction,10,18000
+U018,Usman Qureshi,P018,Male,45-54,50,Married,KPK,West,Banker,Finance,20,28000
+U019,Zara Sheikh,P019,Female,18-24,23,Single,Punjab,North,Graphic Designer,Media,2,9000
+U020,Bilal Ahmed,P020,Male,25-34,31,Married,Balochistan,West,Project Manager,Technology,8,22000
+U021,Sana Rahim,P021,Female,35-44,36,Single,Sindh,South,HR Specialist,Corporate,12,15000
+U022,Waleed Khan,P022,Male,45-54,49,Divorced,Punjab,East,Entrepreneur,Retail,15,30000
+U023,Rabia Ali,P023,Female,18-24,21,Single,KPK,North,Content Writer,Marketing,3,8000
+U024,Hassan Raza,P024,Male,25-34,33,Married,Punjab,North,Civil Engineer,Construction,10,19000
+U025,Saba Tariq,P025,Female,35-44,40,Single,Sindh,South,Data Analyst,Technology,7,17000
+U026,Imran Butt,P026,Male,45-54,48,Married,Punjab,West,Sales Manager,Manufacturing,18,26000
+U027,Mehwish Ali,P027,Female,25-34,28,Single,Balochistan,East,Researcher,Education,5,10000
+U028,Kamran Shah,P028,Male,35-44,38,Married,KPK,North,Operations Manager,Retail,14,23000
+U029,Anum Malik,P029,Female,18-24,22,Single,Sindh,South,Fashion Designer,Apparel,2,9500
+U030,Owais Ahmed,P030,Male,25-34,32,Married,Punjab,North,Lawyer,Legal,9,20000
+U031,Zoya Khan,P031,Female,35-44,37,Single,Sindh,South,Marketing Executive,Marketing,12,16000
+U032,Hamza Tariq,P032,Male,45-54,50,Divorced,Balochistan,West,IT Specialist,Technology,17,27000
+U033,Alina Zafar,P033,Female,25-34,30,Married,Punjab,North,Teacher,Education,8,13000
+U034,Nabeel Siddiqi,P034,Male,35-44,42,Married,KPK,North,Journalist,Media,15,21000
+U035,Mahnoor Javed,P035,Female,18-24,24,Single,Punjab,North,Social Media Manager,Marketing,3,9000
+U036,Ali Raza,PRD001,Male,25-34,29,Single,Punjab,North,Engineer,Electronics,2,12000
+U037,Sara Khan,PRD002,Female,35-44,38,Married,Sindh,South,Teacher,Clothing,3,8000
+U038,Ahmed Malik,PRD001,Male,18-24,23,Single,KPK,North,Student,Electronics,1,6000
+U039,Hina Ahmed,PRD003,Female,25-34,32,Married,Punjab,East,Doctor,Healthcare,2,15000
+U040,Bilal Siddiqui,PRD002,Male,35-44,41,Divorced,Sindh,South,Accountant,Clothing,4,
+U041,Zainab Farooq,PRD004,Female,45-54,49,Married,Balochistan,West,Consultant,Home Appliances,5,17000
+U042,Hassan Ali,PRD001,Male,25-34,28,Single,Punjab,North,Software Engineer,Electronics,2,10000
+U043,Ayesha Saeed,PRD002,Female,35-44,35,Married,Sindh,South,Lawyer,Clothing,3,9000
+U044,Usman Tariq,PRD003,Male,45-54,48,Married,KPK,North,Marketing Manager,Healthcare,2,14000
+U045,Rabia Javed,PRD004,Female,25-34,30,Single,Punjab,East,HR Manager,Home Appliances,4,12000
+U046,Asim Qureshi,PRD002,Male,35-44,39,Married,Balochistan,West,Teacher,Clothing,2,8500
+U047,Maryam Sheikh,PRD001,Female,18-24,21,Single,Sindh,South,Student,Electronics,1,5500
+U048,Kamran Hussain,PRD004,Male,45-54,52,Married,Punjab,North,Business Owner,Home Appliances,3,16000
+U049,Anum Rizvi,PRD003,Female,25-34,30,Married,Sindh,East,Software Developer,Healthcare,2,11000
+U050,Farhan Junaid,PRD002,Male,35-44,37,Single,KPK,North,Engineer,Clothing,1,7500
+U051,Zara Ali,PRD001,Female,18-24,24,Single,Balochistan,West,Content Writer,Electronics,1,6800
+U052,Imran Yousaf,PRD003,Male,25-34,33,Married,Punjab,East,Consultant,Healthcare,3,14500
+U053,Noor Fatima,PRD002,Female,35-44,42,Divorced,Sindh,South,Doctor,Clothing,5,9500
+U054,Saad Zafar,PRD004,Male,45-54,50,Married,KPK,North,Financial Analyst,Home Appliances,2,12500
+U055,Sana Khalid,PRD001,Female,25-34,29,Single,Punjab,East,Graphic Designer,Electronics,2,10500
+U056,Arif Zaman,PRD002,Male,35-44,40,Married,Balochistan,West,Operations Manager,Clothing,4,12000
+U057,Nadia Khan,PRD004,Female,45-54,53,Married,Sindh,South,HR Manager,Home Appliances,3,17500
+U058,Bilal Javed,PRD003,Male,25-34,32,Single,KPK,North,Lawyer,Healthcare,2,10000
+U059,Farah Sheikh,PRD002,Female,35-44,36,Married,Punjab,North,Business Analyst,Clothing,3,8500
+U060,Faisal Khan,PRD001,Male,18-24,22,Single,Sindh,East,Student,Electronics,1,7500
+U061,Safia Ali,PRD003,Female,25-34,33,Married,Balochistan,West,Doctor,Healthcare,2,9000
+U062,Omer Shah,PRD004,Male,45-54,51,Married,Punjab,East,Accountant,Home Appliances,3,13500
+U063,Alina Saeed,PRD002,Female,35-44,39,Married,KPK,North,Software Engineer,Clothing,5,11500
+U064,Fahad Qureshi,PRD001,Male,25-34,30,Single,Sindh,South,Marketing Manager,Electronics,2,12500
+U065,Mehwish Tariq,PRD003,Female,18-24,24,Single,Punjab,North,Engineer,Healthcare,1,7500
+U066,Ali Haider,PRD004,Male,45-54,50,Married,Balochistan,West,Lawyer,Home Appliances,3,16000
+U067,Rabia Siddiqui,PRD002,Female,25-34,30,Married,Sindh,South,Teacher,Clothing,4,9500
+U068,Hamza Malik,PRD001,Male,35-44,41,Single,KPK,North,Consultant,Electronics,3,13000
+U069,Sadaf Qureshi,PRD003,Female,18-24,23,Single,Punjab,East,Marketing Executive,Healthcare,1,9500
+U070,Shahbaz Nadeem,PRD004,Male,45-54,46,Married,Sindh,East,Engineer,Home Appliances,5,18500
+U071,Nazia Raza,PRD002,Female,35-44,40,Married,Punjab,North,Teacher,Clothing,2,10500
+U072,Hammad Rafiq,PRD001,Male,25-34,31,Single,Balochistan,West,Accountant,Electronics,1,9500
+U073,Kiran Javed,PRD003,Female,18-24,22,Single,KPK,North,Student,Healthcare,2,7500
+U074,Waqar Ahmed,PRD004,Male,45-54,53,Married,Punjab,East,Business Owner,Home Appliances,4,20000
+U075,Maryam Abbas,PRD002,Female,35-44,35,Married,Sindh,South,Doctor,Clothing,3,11500
+U076,Sohail Akbar,PRD001,Male,25-34,33,Single,KPK,North,Software Engineer,Electronics,2,12000
+U077,Nadia Abbas,PRD003,Female,45-54,51,Married,Punjab,North,Consultant,Healthcare,5,15000
+U078,Umer Tariq,PRD004,Male,35-44,44,Married,Balochistan,West,Accountant,Home Appliances,3,14000
+U079,Zeeshan Iqbal,PRD002,Male,25-34,30,Single,Punjab,East,Teacher,Clothing,2,9500
+U080,Fatima Ali,PRD003,Female,35-44,38,Divorced,Sindh,South,Doctor,Healthcare,4,14000
+U081,Tariq Jameel,PRD001,Male,18-24,22,Single,KPK,North,Student,Electronics,1,7800
+U082,Sana Saleem,PRD004,Female,45-54,50,Married,Balochistan,West,Lawyer,Home Appliances,3,16500
+U083,Hassan Yousaf,PRD002,Male,35-44,41,Single,Punjab,North,Engineer,Clothing,4,13500
+U084,Asma Tariq,PRD003,Female,18-24,23,Single,Sindh,South,Student,Healthcare,2,9000
+U085,Umar Saeed,PRD004,Male,45-54,48,Married,KPK,East,Marketing Manager,Home Appliances,5,15500
+U086,Imran Yousaf,PRD003,Male,25-34,33,Married,Punjab,East,Consultant,Healthcare,3,14500
+U087,Noor Fatima,PRD002,Female,35-44,42,Divorced,Sindh,South,Doctor,Clothing,5,9500
+U088,Saad Zafar,PRD004,Male,45-54,50,Married,KPK,North,Financial Analyst,Home Appliances,2,12500
+U089,Sana Khalid,PRD001,Female,25-34,29,Single,Punjab,East,Graphic Designer,Electronics,2,10500
+U090,Arif Zaman,PRD002,Male,35-44,40,Married,Balochistan,West,Operations Manager,Clothing,4,12000
+U091,Nadia Khan,PRD004,Female,45-54,53,Married,Sindh,South,HR Manager,Home Appliances,3,17500
+U092,Ahmed Ali,P001,Male,25-34,30,Single,Punjab,North,Engineer,Electronics,2,15000
+U093,Fatima Khan,P002,Female,35-44,40,Married,Sindh,South,Teacher,Apparel,1,5000
+U094,Ali Raza,P003,Male,18-24,22,Single,Khyber Pakhtunkhwa,Central,Student,Home Goods,3,7500
+U095,Aisha Ahmed,P004,Female,45-54,50,Married,Balochistan,West,Doctor,Healthcare,1,20000
+U096,Bilal Shah,P005,Male,35-44,37,Single,Punjab,North,Businessman,Electronics,5,25000
+U097,Zara Iqbal,P006,Female,25-34,29,Married,Sindh,South,Nurse,Apparel,2,10000
+U098,Usman Tariq,P007,Male,55-64,60,Married,Khyber Pakhtunkhwa,Central,Retired,Home Goods,1,
+U099,Sana Javed,P008,Female,18-24,21,Single,Balochistan,West,Student,Electronics,4,12000
+U100,Omar Khan,P009,Male,25-34,32,Married,Punjab,North,Lawyer,Apparel,3,15000
+U101,Hina Malik,P010,Female,35-44,38,Single,Sindh,South,Accountant,Healthcare,2,8000
+U102,Ayesha Iqbal,P011,Female,25-34,30,Married,Punjab,North,Engineer,Technology,4,12000
+U103,Ali Raza,P012,Male,45-54,47,Divorced,Sindh,South,Manager,Finance,15,20000
+,,,,,,,,,,,,
